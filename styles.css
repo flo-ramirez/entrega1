@@ -5,8 +5,14 @@ body {
 }
 
 .image{
-    border-radius: 10px;
-    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-width: 3px;
+    border-color: #88888897;
+    border-style:dotted;
+    opacity: 0.9;
 }
 /*estilo botón*/
 .link-button {
