@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: url("https://i.pinimg.com/originals/4b/42/a0/4b42a0ebfc915d98aacd0ed4580477b8.jpg");
+    background-size: cover;
 }
 
 .image{
